@@ -71,14 +71,6 @@ App 會從照片的 EXIF 讀取機型、35mm 等效焦距、光圈、快門速�
 - 判斷依據不是「裝在哪支手機上」，而是 **「照片是哪個機型拍的」**。所以只要是 Xperia 拍的照片，在其他 Android 手機上也能加浮水印。
 - **不支援非 Xperia 拍攝的照片，以及 EXIF 已被刪除的照片。**
 
-### 與蔡司版的差異
-
-| | Xperia All Watermark（本 App） | [Xperia Watermark For Zeiss](https://github.com/Connectan/Xperia-Watermark-For-Zeiss) |
-|---|---|---|
-| 支援的照片 | **所有 Xperia** 拍攝的照片 | 僅蔡司 Xperia 拍攝的照片 |
-| 標誌 | Taken with Xperia | Xperia × ZEISS |
-| 套件名稱 | `com.aistudio.xperiawatermark.xpwm` | `com.example` |
-
 ---
 
 ## 使用方式

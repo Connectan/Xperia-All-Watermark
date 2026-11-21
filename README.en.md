@@ -71,14 +71,6 @@ The app reads the photo's EXIF data: model name, 35mm-equivalent focal length, a
 - Detection is based on **which phone took the photo**, not which phone the app is installed on. So you can add watermarks to Xperia photos on other Android phones too.
 - **It does not work with photos taken on non-Xperia phones, or with photos whose EXIF data has been removed.**
 
-### Differences from the ZEISS version
-
-| | Xperia All Watermark (this app) | [Xperia Watermark For Zeiss](https://github.com/Connectan/Xperia-Watermark-For-Zeiss) |
-|---|---|---|
-| Supported photos | Photos taken on **any Xperia** | Only photos taken on ZEISS-equipped Xperia phones |
-| Logo | Taken with Xperia | Xperia × ZEISS |
-| Package name | `com.aistudio.xperiawatermark.xpwm` | `com.example` |
-
 ---
 
 ## How to use

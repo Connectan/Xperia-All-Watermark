@@ -71,14 +71,6 @@
 - 判断依据不是“装在哪台手机上”，而是 **“照片是哪台机型拍的”**。所以只要是 Xperia 拍的照片，在其他 Android 手机上也能加水印。
 - **不支持非 Xperia 拍摄的照片，以及 EXIF 已被删除的照片。**
 
-### 与蔡司版的区别
-
-| | Xperia All Watermark（本应用） | [Xperia Watermark For Zeiss](https://github.com/Connectan/Xperia-Watermark-For-Zeiss) |
-|---|---|---|
-| 支持的照片 | **所有 Xperia** 拍摄的照片 | 仅蔡司 Xperia 拍摄的照片 |
-| 标志 | Taken with Xperia | Xperia × ZEISS |
-| 包名 | `com.aistudio.xperiawatermark.xpwm` | `com.example` |
-
 ---
 
 ## 使用方法

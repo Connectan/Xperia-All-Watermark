@@ -71,14 +71,6 @@
 - 判定は「どの端末にインストールしたか」ではなく **「どの機種で撮った写真か」** で行います。なので、Xperia で撮った写真なら、ほかの Android 端末でも透かしを入れられます。
 - **Xperia 以外で撮った写真や、EXIF が消えている写真には使えません。**
 
-### ZEISS 版との違い
-
-| | Xperia All Watermark（このアプリ） | [Xperia Watermark For Zeiss](https://github.com/Connectan/Xperia-Watermark-For-Zeiss) |
-|---|---|---|
-| 対象の写真 | **すべての Xperia** で撮った写真 | ZEISS 搭載 Xperia で撮った写真のみ |
-| ロゴ | Taken with Xperia | Xperia × ZEISS |
-| パッケージ名 | `com.aistudio.xperiawatermark.xpwm` | `com.example` |
-
 ---
 
 ## 使い方

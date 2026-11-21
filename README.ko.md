@@ -71,14 +71,6 @@
 - 판정은 "어느 기기에 설치했는지"가 아니라 **"어느 기종으로 찍은 사진인지"** 로 합니다. 그래서 Xperia로 찍은 사진이라면 다른 Android 기기에서도 워터마크를 넣을 수 있습니다.
 - **Xperia 이외의 기기로 찍은 사진이나 EXIF가 지워진 사진에는 사용할 수 없습니다.**
 
-### ZEISS 버전과의 차이
-
-| | Xperia All Watermark(이 앱) | [Xperia Watermark For Zeiss](https://github.com/Connectan/Xperia-Watermark-For-Zeiss) |
-|---|---|---|
-| 대상 사진 | **모든 Xperia** 로 찍은 사진 | ZEISS 탑재 Xperia로 찍은 사진만 |
-| 로고 | Taken with Xperia | Xperia × ZEISS |
-| 패키지명 | `com.aistudio.xperiawatermark.xpwm` | `com.example` |
-
 ---
 
 ## 사용 방법
