@@ -4,7 +4,7 @@
 
 ![Android](https://img.shields.io/badge/Android-7.0%2B-3DDC84?logo=android&logoColor=white)
 ![Target](https://img.shields.io/badge/target-Android%2016%20(API%2036)-blue)
-![Status](https://img.shields.io/badge/version-1.0-brightgreen)
+![Status](https://img.shields.io/badge/version-1.0.1-brightgreen)
 ![Made with](https://img.shields.io/badge/Jetpack%20Compose-Kotlin-7F52FF?logo=kotlin&logoColor=white)
 
 **An Android app that adds a "Taken with Xperia" logo and shooting info as a watermark to photos taken on an Xperia. It works with every Xperia, not just the ZEISS models.**
@@ -17,9 +17,9 @@ The app reads the photo's EXIF data: model name, 35mm-equivalent focal length, a
 
 ## ⚠️ Read this first
 
-- The APK here is **v1.0 (final release)**.
+- The APK here is **v1.0.1 (final release)**. If you already have v1.0, just install v1.0.1 over it; no need to uninstall (v1.0.1 removes `com.example` from the app's internal names).
 - The package name is `com.connectan.xperiawatermark.all`. It is a separate app from the ZEISS version, so **you can install both at the same time**.
-- The Beta has a different package name and signature, so it can't be updated in place. If you have the Beta installed, **uninstall it first**, then install v1.0.
+- The Beta has a different package name and signature, so it can't be updated in place. If you have the Beta installed, **uninstall it first**, then install v1.0.1.
 - This app is not distributed through Google Play. Use it at your own risk.
 
 ---
@@ -30,9 +30,9 @@ The app reads the photo's EXIF data: model name, 35mm-equivalent focal length, a
 
 | Item | Details |
 |---|---|
-| File name | `XperiaAllWatermark_v1.0.apk` |
+| File name | `XperiaAllWatermark_v1.0.1.apk` |
 | Size | About 20 MB |
-| SHA-256 | `1f02d3236abf30eb3bc3caa9cef76e0910c910ee485f0f9514cf12f2e34b9f0f` |
+| SHA-256 | `2ad947973d20f112186e2cf64e662ca388a1697ed4e8924f48596c3df39dae30` |
 
 ---
 

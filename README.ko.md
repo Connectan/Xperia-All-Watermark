@@ -4,7 +4,7 @@
 
 ![Android](https://img.shields.io/badge/Android-7.0%2B-3DDC84?logo=android&logoColor=white)
 ![Target](https://img.shields.io/badge/target-Android%2016%20(API%2036)-blue)
-![Status](https://img.shields.io/badge/version-1.0-brightgreen)
+![Status](https://img.shields.io/badge/version-1.0.1-brightgreen)
 ![Made with](https://img.shields.io/badge/Jetpack%20Compose-Kotlin-7F52FF?logo=kotlin&logoColor=white)
 
 **Xperia로 찍은 사진에 "Taken with Xperia" 로고와 촬영 정보 워터마크를 넣는 Android 앱입니다. ZEISS 탑재 모델뿐 아니라 모든 Xperia를 지원합니다.**
@@ -17,9 +17,9 @@
 
 ## ⚠️ 먼저 읽어 주세요
 
-- 배포 중인 APK는 **v1.0(정식판)** 입니다.
+- 배포 중인 APK는 **v1.0.1(정식판)** 입니다. v1.0을 설치한 분은 삭제하지 않고 그대로 덮어쓰기 업데이트할 수 있습니다(v1.0.1은 앱 내부 이름에서 `com.example`을 없앤 버전입니다).
 - 패키지명은 `com.connectan.xperiawatermark.all` 입니다. ZEISS 버전과는 다른 앱이라서 **둘 다 동시에 설치할 수 있습니다**.
-- Beta 버전과는 패키지명과 서명이 달라서 덮어쓰기 업데이트가 되지 않습니다. Beta 버전을 설치한 분은 **먼저 삭제한 뒤** v1.0을 설치해 주세요.
+- Beta 버전과는 패키지명과 서명이 달라서 덮어쓰기 업데이트가 되지 않습니다. Beta 버전을 설치한 분은 **먼저 삭제한 뒤** v1.0.1을 설치해 주세요.
 - Google Play 외부에서 배포하는 앱입니다. 사용은 본인 책임입니다.
 
 ---
@@ -30,9 +30,9 @@
 
 | 항목 | 내용 |
 |---|---|
-| 파일명 | `XperiaAllWatermark_v1.0.apk` |
+| 파일명 | `XperiaAllWatermark_v1.0.1.apk` |
 | 크기 | 약 20 MB |
-| SHA-256 | `1f02d3236abf30eb3bc3caa9cef76e0910c910ee485f0f9514cf12f2e34b9f0f` |
+| SHA-256 | `2ad947973d20f112186e2cf64e662ca388a1697ed4e8924f48596c3df39dae30` |
 
 ---
 
