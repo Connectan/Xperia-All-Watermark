@@ -4,7 +4,7 @@
 
 ![Android](https://img.shields.io/badge/Android-7.0%2B-3DDC84?logo=android&logoColor=white)
 ![Target](https://img.shields.io/badge/target-Android%2016%20(API%2036)-blue)
-![Status](https://img.shields.io/badge/status-Beta%202%20(BugFix)-orange)
+![Status](https://img.shields.io/badge/version-1.0-brightgreen)
 ![Made with](https://img.shields.io/badge/Jetpack%20Compose-Kotlin-7F52FF?logo=kotlin&logoColor=white)
 
 **一款给 Xperia 拍摄的照片加上“Taken with Xperia”标志和拍摄信息水印的 Android 应用。不只是蔡司（ZEISS）机型，所有 Xperia 都支持。**
@@ -17,8 +17,9 @@
 
 ## ⚠️ 请先阅读
 
-- 这里发布的 APK 是 **Beta 2 的 Bug 修复版**，仍然是调试（debug）版本。
-- 包名为 `com.aistudio.xperiawatermark.xpwm`。它和蔡司版是不同的应用，**可以同时安装**。
+- 这里发布的 APK 是 **v1.0（正式版）**。
+- 包名为 `com.connectan.xperiawatermark.all`。它和蔡司版是不同的应用，**可以同时安装**。
+- Beta 版的包名和签名都不同，无法覆盖更新。装了 Beta 版的话，请 **先卸载** 再安装 v1.0。
 - 本应用不通过 Google Play 发布，使用风险请自行承担。
 
 ---
@@ -29,9 +30,9 @@
 
 | 项目 | 内容 |
 |---|---|
-| 文件名 | `XperiaAllWatermark_Beta2_BugFix_Lastest.apk` |
-| 大小 | 约 22 MB |
-| SHA-256 | `511b238ee9accce01bfa0c6b1e27d0bff3076be44d516956da662a3a2c6e8a6e` |
+| 文件名 | `XperiaAllWatermark_v1.0.apk` |
+| 大小 | 约 20 MB |
+| SHA-256 | `1f02d3236abf30eb3bc3caa9cef76e0910c910ee485f0f9514cf12f2e34b9f0f` |
 
 ---
 

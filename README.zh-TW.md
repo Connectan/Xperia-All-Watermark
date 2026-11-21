@@ -4,7 +4,7 @@
 
 ![Android](https://img.shields.io/badge/Android-7.0%2B-3DDC84?logo=android&logoColor=white)
 ![Target](https://img.shields.io/badge/target-Android%2016%20(API%2036)-blue)
-![Status](https://img.shields.io/badge/status-Beta%202%20(BugFix)-orange)
+![Status](https://img.shields.io/badge/version-1.0-brightgreen)
 ![Made with](https://img.shields.io/badge/Jetpack%20Compose-Kotlin-7F52FF?logo=kotlin&logoColor=white)
 
 **一款替 Xperia 拍攝的照片加上「Taken with Xperia」標誌和拍攝資訊浮水印的 Android App。不只是蔡司（ZEISS）機型，所有 Xperia 都支援。**
@@ -17,8 +17,9 @@ App 會從照片的 EXIF 讀取機型、35mm 等效焦距、光圈、快門速�
 
 ## ⚠️ 請先閱讀
 
-- 這裡發布的 APK 是 **Beta 2 的 Bug 修正版**，仍然是除錯（debug）版本。
-- 套件名稱為 `com.aistudio.xperiawatermark.xpwm`。它和蔡司版是不同的 App，**可以同時安裝**。
+- 這裡發布的 APK 是 **v1.0（正式版）**。
+- 套件名稱為 `com.connectan.xperiawatermark.all`。它和蔡司版是不同的 App，**可以同時安裝**。
+- Beta 版的套件名稱和簽章都不同，無法覆蓋更新。裝了 Beta 版的話，請 **先解除安裝** 再安裝 v1.0。
 - 本 App 不透過 Google Play 發布，使用風險請自行承擔。
 
 ---
@@ -29,9 +30,9 @@ App 會從照片的 EXIF 讀取機型、35mm 等效焦距、光圈、快門速�
 
 | 項目 | 內容 |
 |---|---|
-| 檔名 | `XperiaAllWatermark_Beta2_BugFix_Lastest.apk` |
-| 大小 | 約 22 MB |
-| SHA-256 | `511b238ee9accce01bfa0c6b1e27d0bff3076be44d516956da662a3a2c6e8a6e` |
+| 檔名 | `XperiaAllWatermark_v1.0.apk` |
+| 大小 | 約 20 MB |
+| SHA-256 | `1f02d3236abf30eb3bc3caa9cef76e0910c910ee485f0f9514cf12f2e34b9f0f` |
 
 ---
 

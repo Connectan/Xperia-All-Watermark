@@ -4,7 +4,7 @@
 
 ![Android](https://img.shields.io/badge/Android-7.0%2B-3DDC84?logo=android&logoColor=white)
 ![Target](https://img.shields.io/badge/target-Android%2016%20(API%2036)-blue)
-![Status](https://img.shields.io/badge/status-Beta%202%20(BugFix)-orange)
+![Status](https://img.shields.io/badge/version-1.0-brightgreen)
 ![Made with](https://img.shields.io/badge/Jetpack%20Compose-Kotlin-7F52FF?logo=kotlin&logoColor=white)
 
 **Xperia で撮った写真に、「Taken with Xperia」ロゴと撮影情報の透かしを入れる Android アプリです。ZEISS 搭載モデルだけでなく、すべての Xperia に対応しています。**
@@ -17,8 +17,9 @@
 
 ## ⚠️ 最初に読んでね
 
-- 配布している APK は **Beta 2 のバグ修正版** です。デバッグビルドのままです。
-- パッケージ名は `com.aistudio.xperiawatermark.xpwm` です。ZEISS 版とは別アプリなので **両方同時にインストールできます**。
+- 配布している APK は **v1.0（完成版）** です。
+- パッケージ名は `com.connectan.xperiawatermark.all` です。ZEISS 版とは別アプリなので **両方同時にインストールできます**。
+- Beta 版とはパッケージ名と署名が違うので、上書きでアップデートできません。Beta 版を入れている人は、**アンインストールしてから** v1.0 を入れてください。
 - Google Play 以外からの配布です。使用は自己責任でお願いします。
 
 ---
@@ -29,9 +30,9 @@
 
 | 項目 | 内容 |
 |---|---|
-| ファイル名 | `XperiaAllWatermark_Beta2_BugFix_Lastest.apk` |
-| サイズ | 約 22 MB |
-| SHA-256 | `511b238ee9accce01bfa0c6b1e27d0bff3076be44d516956da662a3a2c6e8a6e` |
+| ファイル名 | `XperiaAllWatermark_v1.0.apk` |
+| サイズ | 約 20 MB |
+| SHA-256 | `1f02d3236abf30eb3bc3caa9cef76e0910c910ee485f0f9514cf12f2e34b9f0f` |
 
 ---
 
